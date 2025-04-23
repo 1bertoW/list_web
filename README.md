@@ -16,7 +16,7 @@ Este repositório tem todos os links para as 14 atividades feitas na disciplina 
 
  [Atividade HTML 7]( https://1bertow.github.io/atividade7/)
 
- [Atividade HTML 8]( https://1bertow.github.io/atividade8/)
+ [Atividade HTML 8](https://1bertow.github.io/atividade-8/)
 
  [Atividade HTML 9]( https://1bertow.github.io/atividade9/)
 
