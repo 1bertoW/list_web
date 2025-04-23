@@ -1,6 +1,6 @@
 # Atividade HTML
 
-Este repositório tem todos os links para as 14 atividades feitas na disciplina Webl.
+Este repositório tem todos os links para as 14 atividades feitas na disciplina Web l.
 
 ## tabela de Atividades - Humberto Wagner Silva de Sousa
 
