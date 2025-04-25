@@ -3,6 +3,7 @@
 Este repositório tem todos os links para as 14 atividades feitas na disciplina Web l.
 
 ## tabela de Atividades - Humberto Wagner Silva de Sousa
+ [Atividade HTML 1](https://1bertow.github.io/atividade1/)
 
  [Atividade HTML 2](https://1bertow.github.io/atividade2/)
 
